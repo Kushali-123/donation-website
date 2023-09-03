@@ -53,10 +53,10 @@ h3 {
     padding: 16px;
     margin: 12px;
     margin-top: 15px;
-    background-color: rgba(25, 152, 255, 0.905);
+    background-color: rgba(40, 25, 255, 0.905);
     border: none;
     font-weight: bold;
-    color: black;
+    color: rgba(247, 228, 228, 0.897);
     text-align: center;
     text-decoration: none;
     transition: 300ms ease;
