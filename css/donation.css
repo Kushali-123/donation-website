@@ -48,6 +48,20 @@ h3 {
     z-index: 10;
 }
 
+.button{
+    font-size: 16px;
+    padding: 16px;
+    margin: 12px;
+    margin-top: 15px;
+    background-color: rgba(25, 152, 255, 0.905);
+    border: none;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    transition: 300ms ease;
+}
+
 .form>* {
     width: 80%;
 }
