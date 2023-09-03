@@ -61,6 +61,16 @@ h3 {
     text-decoration: none;
     transition: 300ms ease;
 }
+#don:hover {
+    transform: translate3d(0, -5px, 0);
+    box-shadow: 0 2rem 5rem 0 rgba(17, 236, 252, 0.5);
+    background-color: rgba(225, 170, 31, 0.905);
+    transition: 300ms ease;
+}
+
+#don:focus {
+    outline: none;
+}
 
 .form>* {
     width: 80%;
